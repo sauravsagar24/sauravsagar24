@@ -1,4 +1,4 @@
-### Hello Geeks, I’m @sauravsagar24. 👋
+### Hello Developers, I’m @sauravsagar24. 👋
 - Currently, I am pursuing MTech at the Indian Institute of Information Technology Allahabad.
 - I’m working on applications based on Machine Learning and Deep Learning.
 - Also, I like exploring new technologies and new research areas. 
